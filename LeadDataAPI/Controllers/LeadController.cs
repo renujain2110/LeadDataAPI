@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace LeadDataAPI.Controllers
 {
     /// <summary>
-    /// Lead controller for CRUD operations
+    /// Lead controller CRUD operations
     /// </summary>
     [Authorize]
     [Route("api/[controller]")]

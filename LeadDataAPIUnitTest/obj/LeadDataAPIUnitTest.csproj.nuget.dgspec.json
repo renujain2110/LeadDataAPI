@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Akkroo\\LeadDataAPI\\LeadDataAPIUnitTest\\LeadDataAPIUnitTest.csproj": {}
+    "D:\\Upload\\LeadDataAPI\\LeadDataAPIUnitTest\\LeadDataAPIUnitTest.csproj": {}
   },
   "projects": {
-    "D:\\Akkroo\\LeadDataAPI\\LeadDataAPIUnitTest\\LeadDataAPIUnitTest.csproj": {
+    "D:\\Upload\\LeadDataAPI\\LeadDataAPIUnitTest\\LeadDataAPIUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Akkroo\\LeadDataAPI\\LeadDataAPIUnitTest\\LeadDataAPIUnitTest.csproj",
+        "projectUniqueName": "D:\\Upload\\LeadDataAPI\\LeadDataAPIUnitTest\\LeadDataAPIUnitTest.csproj",
         "projectName": "LeadDataAPIUnitTest",
-        "projectPath": "D:\\Akkroo\\LeadDataAPI\\LeadDataAPIUnitTest\\LeadDataAPIUnitTest.csproj",
+        "projectPath": "D:\\Upload\\LeadDataAPI\\LeadDataAPIUnitTest\\LeadDataAPIUnitTest.csproj",
         "packagesPath": "C:\\Users\\RENU JAIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Akkroo\\LeadDataAPI\\LeadDataAPIUnitTest\\obj\\",
+        "outputPath": "D:\\Upload\\LeadDataAPI\\LeadDataAPIUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\Akkroo\\LeadDataAPI\\LeadDataAPI\\LeadDataAPI.csproj": {
-                "projectPath": "D:\\Akkroo\\LeadDataAPI\\LeadDataAPI\\LeadDataAPI.csproj"
+              "D:\\Upload\\LeadDataAPI\\LeadDataAPI\\LeadDataAPI.csproj": {
+                "projectPath": "D:\\Upload\\LeadDataAPI\\LeadDataAPI\\LeadDataAPI.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "D:\\Akkroo\\LeadDataAPI\\LeadDataAPI\\LeadDataAPI.csproj": {
+    "D:\\Upload\\LeadDataAPI\\LeadDataAPI\\LeadDataAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Akkroo\\LeadDataAPI\\LeadDataAPI\\LeadDataAPI.csproj",
+        "projectUniqueName": "D:\\Upload\\LeadDataAPI\\LeadDataAPI\\LeadDataAPI.csproj",
         "projectName": "LeadDataAPI",
-        "projectPath": "D:\\Akkroo\\LeadDataAPI\\LeadDataAPI\\LeadDataAPI.csproj",
+        "projectPath": "D:\\Upload\\LeadDataAPI\\LeadDataAPI\\LeadDataAPI.csproj",
         "packagesPath": "C:\\Users\\RENU JAIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Akkroo\\LeadDataAPI\\LeadDataAPI\\obj\\",
+        "outputPath": "D:\\Upload\\LeadDataAPI\\LeadDataAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
